@@ -2,5 +2,19 @@
     background-color: #222;
     color: aliceblue;
 }
-  
+body{
+    position: absolute;
+    width: 1195px;
+    height: 118px;
+    left: 85px;
+    top: 248px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 59px;
+
+    color: #E8AFCE;
+}
   
