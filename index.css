@@ -1,8 +1,5 @@
-body{
-    position: absolute;
-    width: 400px;
-    height: 400px;
-    background: url(Color Hunt Palette 4c0027570530750550980f5a.png);
-}  
+*{
+    background-color: #222;
+}
   
   
