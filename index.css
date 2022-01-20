@@ -1,8 +1,6 @@
 *{
     background-color: #222;
     color: aliceblue;
-}
-body{
     position: absolute;
     width: 1195px;
     height: 118px;
@@ -13,6 +11,5 @@ body{
     font-weight: bold;
     font-size: 48px;
     line-height: 59px;
-    color: #E8AFCE;
 }
   
